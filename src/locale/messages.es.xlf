@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="header" datatype="html">
+        <source>Internationalization (i18n)</source>
+        <target>Internacionalización (i18n)</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="para" datatype="html">
+        <source>In computing, internationalization and localization (AmE) or internationalisation and localisation (BrE) are means
+    of adapting computer software to different languages, regional peculiarities and technical requirements of a target
+    locale.[1] Internationalization is the process of designing a software application so that it can be adapted to
+    various languages and regions without engineering changes. Localization is the process of adapting internationalized
+    software for a specific region or language by translating text and adding locale-specific components. Localization
+    (which is potentially performed multiple times, for different locales) uses the infrastructure or flexibility
+    provided by internationalization (which is ideally performed only once, or as an integral part of ongoing
+    development)</source>
+      <target>En informática, internacionalización y localización (AmE) o internacionalización y localización (BrE) son medios
+    de adaptar el software a diferentes idiomas, peculiaridades regionales y requisitos técnicos de un objetivo
+    locale. [1] La internacionalización es el proceso de diseño de una aplicación de software para que pueda adaptarse a
+    varios idiomas y regiones sin cambios de ingeniería. La localización es el proceso de adaptación internacionalizado.
+    software para una región o idioma específico traduciendo texto y agregando componentes específicos de la localidad. Localización
+    (que se realiza potencialmente varias veces, para diferentes configuraciones regionales) utiliza la infraestructura o la flexibilidad
+    proporcionado por la internacionalización (que idealmente se realiza solo una vez, o como parte integral de un proceso continuo
+    desarrollo)</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
